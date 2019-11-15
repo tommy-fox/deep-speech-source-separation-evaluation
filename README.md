@@ -16,10 +16,16 @@ These results indicate that context-based source separation used in conjunction 
 The present research could be expanded in the future to include tests involving convolutive noise. 
 Future work should also explore this pipeline with alternate end-to-end speech recognition systems, as well as alternate source separation methods. 
 
+ <p align="center">
+ <b> Dataset Information </b>
+ </p>
 <p align="center">
 <img width="700" height="600" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/DATA_DURATION_DIST.png">
 </p>
 
+ <p align="center">
+ <b> Deep Speech Word Error Rate Results </b>
+ </p>
 <p align="center">
 <img width="750" height="750" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/WER_CV1.png">
 </p>
