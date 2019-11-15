@@ -51,10 +51,9 @@ Transcription label: "Could I please see you a minute.” <br>
 </p>
 
 <p align="center">
-<img width="600" height="300" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/spec_umx_dog_bark2.png">
+<img width="600" height="300" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/spec_nmf_dog_bark2.png">
 </p>
 
-
 <p align="center">
-<img width="600" height="300" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/spec_nmf_dog_bark2.png">
+<img width="600" height="300" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/spec_umx_dog_bark2.png">
 </p>
