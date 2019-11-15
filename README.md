@@ -21,9 +21,9 @@ Future work should also explore this pipeline with alternate end-to-end speech r
 </p>
 
 <p align="center">
-<img width="750" height="750" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/WER_CV.png">
+<img width="750" height="750" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/WER_CV1.png">
 </p>
 
 <p align="center">
-<img width="750" height="750" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/WER_LIB.png">
+<img width="750" height="750" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/WER_LIB1.png">
 </p>
