@@ -17,7 +17,8 @@ The present research could be expanded in the future to include tests involving 
 Future work should also explore this pipeline with alternate end-to-end speech recognition systems, as well as alternate source separation methods. 
 <br><br>
  <p align="left">
- <b> Dataset Information (used to train source separation methods and test Deep Speech) </b>
+ <b> Dataset Information <br>
+ (used to train source separation methods and test Deep Speech) </b>
  </p>
 <p align="center">
 <img width="700" height="600" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/DATA_DURATION_DIST1.png">
