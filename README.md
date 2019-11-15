@@ -38,9 +38,9 @@ Future work should also explore this pipeline with alternate end-to-end speech r
 <br><br>
  <p align="left">
  <b> Spectrogram Examples from the Common Voice Dataset </b> <br>
-Transcription label: "Could I please see you a minute.” <br>
 This speech example was corrupted with dog barking at a 2to1 signal to noise ratio. <br>
-Vocal separation was then applied using Open-Unmix (UMX) and Non-negative Matrix Factorization (NMF).
+Vocal separation was then applied using Open-Unmix (UMX) and Non-negative Matrix Factorization (NMF). <br>
+Transcription label: "Could I please see you a minute.” <br>
  </p>
 <p align="center">
 <img width="600" height="300" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/spec_clean_no_dog_bark1.png">
