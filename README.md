@@ -15,15 +15,15 @@ Deep Speech’s Word Error Rate consistently improves across all signal to noise
 These results indicate that context-based source separation used in conjunction with end-to-end speech transcription is a worthy avenue of research. 
 The present research could be expanded in the future to include tests involving convolutive noise. 
 Future work should also explore this pipeline with alternate end-to-end speech recognition systems, as well as alternate source separation methods. 
-
- <p align="center">
+<br><br>
+ <p align="left">
  <b> Dataset Information </b>
  </p>
 <p align="center">
 <img width="700" height="600" src="https://raw.githubusercontent.com/tommy-fox/deep-speech-source-separation-evaluation/master/images/DATA_DURATION_DIST.png">
 </p>
-
- <p align="center">
+<br><br>
+ <p align="left">
  <b> Deep Speech Word Error Rate Results </b>
  </p>
 <p align="center">
