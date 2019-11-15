@@ -38,7 +38,7 @@ Future work should also explore this pipeline with alternate end-to-end speech r
 <br><br>
  <p align="left">
  <b> Spectrogram Examples from the Common Voice Dataset </b> <br>
-Transcription label: "Could I please see you a minute”
+Transcription label: "Could I please see you a minute.” <br>
 This speech example was corrupted with dog barking at a 2to1 signal to noise ratio. <br>
 Vocal separation was then applied using Open-Unmix (UMX) and Non-negative Matrix Factorization (NMF).
  </p>
